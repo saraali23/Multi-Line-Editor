@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1667594915 source:d:\kolyah\iti\oop\day3\multi_line_editor_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	<windows.h>
+
